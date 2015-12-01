@@ -1,5 +1,5 @@
 {
-  "name": "jssession",
+  "name": "bruunofco/jssession",
   "version": "0.0.1",
   "description": "Create and manipulate sessions and cookies easily with javascript.",
   "main": "dist/session.js",
