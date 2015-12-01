@@ -1,0 +1,29 @@
+{
+  "name": "jssession",
+  "version": "0.0.1",
+  "description": "Create and manipulate sessions and cookies easily with javascript.",
+  "main": "dist/session.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruunofco/jsSession.git"
+  },
+  "keywords": [
+    "Session",
+    "JavaScript",
+    "Session",
+    "Cookie",
+    "Save",
+    "session",
+    "with",
+    "javascript"
+  ],
+  "author": "bruunofco <brunofco_b2@yahoo.com.br>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bruunofco/jsSession/issues"
+  },
+  "homepage": "https://github.com/bruunofco/jsSession#readme"
+}
