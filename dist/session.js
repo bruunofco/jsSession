@@ -46,6 +46,9 @@ var Session = (function () {
     Session.remove = function (key) {
         this.method.removeItem(key);
     };
+    Session.clear = function () {
+        this.method.clear();
+    };
     Session.method = localStorage;
     return Session;
 })();

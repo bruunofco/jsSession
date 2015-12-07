@@ -68,4 +68,13 @@ class Session {
     public static remove(key) {
         this.method.removeItem(key);
     }
+
+    /**
+     * Clear session
+     *
+     * @return void
+     */
+    public static clear() {
+        this.method.clear();
+    }
 }
